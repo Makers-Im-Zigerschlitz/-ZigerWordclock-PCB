@@ -1,4 +1,4 @@
-19826549264291198
+19828194144887730
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84503,6 +84503,13 @@ BTF-5V-060L-B SK9822 LED Strip - 11 Segment
 0
 8
 8
+WordClock Footprint Library
+IR-Module_38KHz
+
+
+0
+3
+3
 WordClock Footprint Library
 LILYGO® TTGO T8 ESP32-S2 V1.1
 
