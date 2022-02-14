@@ -1,6 +1,6 @@
 (footprint "BTF-5V-060L-B SK9822 LED Strip - 1 Segment" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6209941F)
+  (tedit 620A4BBC)
   (attr smd)
   (fp_text reference "REF**" (at 0 4.445 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -33,4 +33,9 @@
   (pad "DO" smd roundrect (at 8.318 1.5) (size 6 2.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0d4c28e2-948b-4d4a-8c13-8a199f9b6a2d))
   (pad "GND" smd roundrect (at -8.318 -4.5) (size 6 2.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 740a8b34-d723-4e03-a00c-fdecc4336c82))
   (pad "GND" smd roundrect (at 8.318 -4.5) (size 6 2.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp be5d6623-90cc-4505-b48c-2617fc71f6ad))
+  (model "Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 1x.step"
+    (offset (xyz 0 0 0.3))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 180))
+  )
 )

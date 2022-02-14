@@ -343,7 +343,7 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "Footprint Library"
+      "WordClock Footprint Library"
     ],
     "pinned_symbol_libs": [
       "WordClock Symbol Library"
