@@ -345,9 +345,7 @@
     "pinned_footprint_libs": [
       "WordClock Footprint Library"
     ],
-    "pinned_symbol_libs": [
-      "WordClock Symbol Library"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "ZigerWordClock.kicad_pro",

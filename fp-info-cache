@@ -1,4 +1,4 @@
-19828194144887730
+19816969219253120
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84482,45 +84482,3 @@ varistor SIOV
 0
 2
 2
-WordClock Footprint Library
-BH1750 Breakout Board
-
-
-0
-5
-5
-WordClock Footprint Library
-BTF-5V-060L-B SK9822 LED Strip - 1 Segment
-
-
-0
-8
-8
-WordClock Footprint Library
-BTF-5V-060L-B SK9822 LED Strip - 11 Segment
-
-
-0
-8
-8
-WordClock Footprint Library
-IR-Module_38KHz
-
-
-0
-3
-3
-WordClock Footprint Library
-LILYGO® TTGO T8 ESP32-S2 V1.1
-
-
-0
-40
-40
-WordClock Footprint Library
-LevelShifter
-
-
-0
-12
-12
