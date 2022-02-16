@@ -1,0 +1,27 @@
+### Missing 3D models - created on 2022-02-16 19:03
+### Printed by checking_3D_models plugin
+Board file: /home/tillo/Documents/ZigerWordclock-PCB/ZigerWordClock.kicad_pcb
+3D missing models written to:
+/home/tillo/Documents/ZigerWordclock-PCB/ZigerWordClock_missing3Dmodels.txt
+-------
+('U11', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 11x.step')
+('U6', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 1x.step')
+('U3', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 1x.step')
+('U10', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 11x.step')
+('U7', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 1x.step')
+('U13', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 11x.step')
+('U5', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 1x.step')
+('U1', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/GY-302 BH1750 Ambient Light Sensor Module (1).STEP')
+('U15', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 11x.step')
+('U14', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 11x.step')
+('U17', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 11x.step')
+('U8', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 11x.step')
+('U12', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 11x.step')
+('U9', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 11x.step')
+('U18', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 11x.step')
+('U16', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 11x.step')
+('U19', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LED-Strip 1x.step')
+('U2', 'Y:/13 Projekte/ZigerWordClock/PCB/ZigerWordClock/STEP Files/LILYGO® TTGO T8 ESP32-S2 V1.1 WIFI USBC.step')
+-------
+NUM of 3D missing models:18
+checked extensions ['.stp', '.step', '.stpZ']

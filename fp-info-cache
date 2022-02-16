@@ -1,4 +1,4 @@
-19826838658537596
+19828483699578324
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84524,3 +84524,10 @@ LevelShifter
 0
 12
 12
+WordClock Footprint Library
+Pad
+
+
+0
+1
+1
