@@ -1,6 +1,6 @@
 (footprint "LevelShifter" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 620A91C3)
+  (tedit 62120419)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -8.89 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -73,12 +73,12 @@
   (pad "10" thru_hole circle (at -5.08 -1.27) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 399fc36a-ed5d-44b5-82f7-c6f83d9acc14))
   (pad "11" thru_hole circle (at -5.08 -3.81) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp b6cd701f-4223-4e72-a305-466869ccb250))
   (pad "12" thru_hole circle (at -5.08 -6.35) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp c8b92953-cd23-44e6-85ce-083fb8c3f20f))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Vertical.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Vertical.step"
     (offset (xyz -5.1 6.33 2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Vertical.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Vertical.step"
     (offset (xyz 5.1 6.33 2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))

@@ -1,6 +1,6 @@
 (footprint "LILYGO® TTGO T8 ESP32-S2 V1.1" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 620BFEA0)
+  (tedit 62120408)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 20.32 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -66,12 +66,12 @@
   (pad "38" thru_hole circle (at 11.39 -21.0525) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 7112d2ae-7915-4f1a-aae6-e71244f669d8))
   (pad "39" thru_hole circle (at 11.39 -23.5925) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 443b842e-cdd6-495f-a7fb-0cef04c17274))
   (pad "40" thru_hole circle (at 11.39 -26.1325) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 730780c7-40bd-484b-b640-ae047209b478))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.step"
     (offset (xyz -11.47 26.13 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.step"
     (offset (xyz 11.39 26.13 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
@@ -81,12 +81,12 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 90))
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x20_P2.54mm_Vertical.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x20_P2.54mm_Vertical.step"
     (offset (xyz -11.47 -22.12 9.54))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
   )
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x20_P2.54mm_Vertical.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x20_P2.54mm_Vertical.step"
     (offset (xyz 11.39 -22.12 9.54))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
