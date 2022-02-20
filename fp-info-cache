@@ -1,4 +1,4 @@
-19829839472638742
+19836422717607790
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84504,6 +84504,13 @@ BTF-5V-060L-B SK9822 LED Strip - 11 Segment
 8
 8
 WordClock Footprint Library
+BackLogo
+
+
+0
+0
+0
+WordClock Footprint Library
 IR-Module_38KHz
 
 
@@ -84531,3 +84538,24 @@ Pad
 0
 1
 1
+WordClock Footprint Library
+QR Code ZigerWordClock PCB
+
+
+0
+0
+0
+WordClock Footprint Library
+Schriftzug MiZ
+
+
+0
+0
+0
+WordClock Footprint Library
+Schriftzug Wordclock
+
+
+0
+0
+0
