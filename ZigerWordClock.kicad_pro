@@ -406,7 +406,7 @@
       "idf": "",
       "netlist": "ZigerWordClock.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "ZigerWordClock.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
