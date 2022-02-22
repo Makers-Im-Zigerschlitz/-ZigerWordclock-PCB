@@ -4483,7 +4483,7 @@
   (symbol (lib_id "power:+3.3V") (at 189.23 117.475 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7afb06e3-ca1d-44f5-8601-611c2c7cce1d)
-    (property "Reference" "#PWR?" (id 0) (at 185.42 117.475 0)
+    (property "Reference" "#PWR0142" (id 0) (at 185.42 117.475 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (id 1) (at 198.755 117.475 90)
@@ -5894,6 +5894,9 @@
     (path "/d4aab617-144a-43b8-88bf-c9cdf5e1c127"
       (reference "#PWR0141") (unit 1) (value "GND") (footprint "")
     )
+    (path "/7afb06e3-ca1d-44f5-8601-611c2c7cce1d"
+      (reference "#PWR0142") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/06f78353-c89c-4818-9e8f-a54ba0ae9736"
       (reference "#PWR0143") (unit 1) (value "+5V") (footprint "")
     )
@@ -6019,9 +6022,6 @@
     )
     (path "/563b46d5-a373-458f-a4c2-52a3d13e4af7"
       (reference "#PWR0185") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/7afb06e3-ca1d-44f5-8601-611c2c7cce1d"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/5c8239f8-fd73-4510-a108-c250e3567c1c"
       (reference "J1") (unit 1) (value "SAO 1.69bis") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical_SMD")
