@@ -2516,6 +2516,7 @@
     )
   )
 
+
   (junction (at 154.305 114.935) (diameter 0) (color 0 0 0 0)
     (uuid 1775287c-1038-4c29-aa51-a5c6edc31624)
   )
@@ -2561,6 +2562,10 @@
 
   (no_connect (at 165.1 205.74) (uuid 0e515f33-1347-4be3-afa6-fa60a44b2e7d))
   (no_connect (at 165.1 208.28) (uuid 0e515f33-1347-4be3-afa6-fa60a44b2e7e))
+  (no_connect (at 187.96 125.095) (uuid 2676ad1e-1122-413b-96f6-42f9b3fe1771))
+  (no_connect (at 160.02 127.635) (uuid 2676ad1e-1122-413b-96f6-42f9b3fe1771))
+  (no_connect (at 160.02 125.095) (uuid 2676ad1e-1122-413b-96f6-42f9b3fe1771))
+  (no_connect (at 187.96 122.555) (uuid 2676ad1e-1122-413b-96f6-42f9b3fe1771))
 
   (wire (pts (xy 331.47 114.3) (xy 320.04 114.3))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -5424,12 +5429,12 @@
   )
 
   (symbol (lib_id "power:GND") (at 227.33 118.745 270) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid d4aab617-144a-43b8-88bf-c9cdf5e1c127)
     (property "Reference" "#PWR0141" (id 0) (at 220.98 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (id 1) (at 224.1551 119.224 90)
+    (property "Value" "GND" (id 1) (at 223.52 118.745 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "" (id 2) (at 227.33 118.745 0)

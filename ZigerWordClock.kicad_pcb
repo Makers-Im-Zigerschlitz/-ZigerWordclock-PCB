@@ -10354,7 +10354,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/0dc70263-bfa0-46ca-b9cb-457da0dc0b2d")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP10" (at 0 2.54 -270 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp acaf1cad-6b59-4fc2-bf02-c066fc3c1188)
@@ -10856,7 +10856,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/5059f3d3-11a0-4af6-aa44-b2d9a3acd91f")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP2" (at 0 2.54 -270 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp a1416951-b2df-4403-95d0-d7c3daed7fa9)
@@ -11197,7 +11197,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/326ed696-9096-4efc-a19a-7828a23c1a09")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP9" (at 0 2.54 -270 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp f96b1d26-7246-417d-a415-76cb40b47f2a)
@@ -11220,7 +11220,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/2ce38f1b-87fc-4f87-837d-16e0ef1428eb")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP5" (at 0 2.54 -270 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 78e03076-28c9-428d-a8cf-29c5ad79d9d7)
@@ -11821,7 +11821,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/c1c89ab3-de89-41d3-96b7-c138e1e60ea0")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP15" (at 0 2.54 90 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp a580e9af-801c-4ec5-9411-0202456d1daa)
@@ -11844,7 +11844,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/9db2912e-3ef8-4526-8eb1-9b37355f077a")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP3" (at 0 2.54 -270 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp a503f03a-3144-4820-bff7-1b56234fc1fd)
@@ -13176,7 +13176,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/014a9a3f-8219-4806-bdbd-0f32c69c16e7")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP20" (at 0 2.54 90 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 57bd0102-a5ea-4f84-b3fb-0ecdd6393a88)
@@ -32959,7 +32959,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/16c7a242-6e27-44a7-90b7-f4af5c5f1485")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP8" (at 0 2.54 -270 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 8d0419bf-c066-4bfc-8b34-8b3f116ebf93)
@@ -34351,7 +34351,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/4a934af9-2070-4b96-abc3-5e447d883316")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP18" (at 0 2.54 90 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 0b90b0c3-7151-4c7d-81fb-be247d4fb9f5)
@@ -34374,7 +34374,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/bb8d2365-964c-4b36-a74e-504290a98abf")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP16" (at 0 2.54 90 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 50d0ad6c-d38d-44bb-8e00-df627a649425)
@@ -34475,7 +34475,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/91feb468-c748-4aea-90eb-6cdb22c6d6ee")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP21" (at 0 2.54 90 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 9b8eca48-8c57-4820-b543-ba0e9d659a4a)
@@ -46533,7 +46533,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/7f6257db-3d0c-4c9a-a04e-dfc79c53453f")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP24" (at 0 2.54 90 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3e5959ca-0249-414f-912a-af24057c13d6)
@@ -46556,7 +46556,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/f6c777f1-b4a6-4529-9b29-67dfedcb1744")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP13" (at 0 2.54 90 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp d8ab3ca2-8e97-48bd-afa5-04fda15178be)
@@ -47375,7 +47375,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/a52bba10-7ae9-4aa5-9658-4b8c2b27a0a3")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP1" (at 0 1.8) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 033c7d52-4963-400d-a6c4-6aa1b0493b80)
@@ -47446,7 +47446,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/cc0b29ed-f28f-47a2-b7cc-370d0efd2504")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP17" (at 0 2.54 90 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 61d5812d-dada-47e6-b99d-72cf48d47c94)
@@ -47652,7 +47652,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/65b3f83a-7970-4c83-8b97-326848169188")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP7" (at 0 2.54 -270 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c83069cf-70c9-4431-b38a-2b7061fe21ab)
@@ -47675,7 +47675,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/9d361ccf-654e-40fa-8603-a4aa1fcb962d")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP19" (at 0 2.54 90 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 670028f4-3fee-43b8-bcab-f68154312deb)
@@ -48015,7 +48015,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/66f3fa18-596b-4c25-a6ad-b4328e3e8491")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP6" (at 0 2.54 -270 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp a428b88d-b412-4d61-8076-d9f4acc9ea0c)
@@ -48040,7 +48040,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/896391fa-77aa-4617-be63-4c92c9128a73")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J2" (at 0 2.33) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 559a6369-2ca6-4fcf-ae30-ae692e2bc6f5)
@@ -49319,7 +49319,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/412867e5-9497-4b8e-9d84-72f15c5a9e38")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP22" (at 0 2.54 90 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c891bc35-d4e6-481d-92a1-317d4d9f605c)
@@ -49631,7 +49631,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/5732fe89-5269-4719-98b5-f2ef3f341659")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP12" (at 0 2.54 90 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp e2eb8bf9-a708-4157-9700-9b66a8390ece)
@@ -50083,7 +50083,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/0fa5cc7d-f035-4b95-bc79-e783c68506e0")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP4" (at 0 2.54 -270 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 544beada-69bd-4deb-bfe5-61535cc921fb)
@@ -50106,7 +50106,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/713de08c-c201-437d-bca7-823719c7e20f")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP11" (at 0 2.54 -270 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 5132fb78-f769-4134-adda-f4d43d0e987d)
@@ -50299,7 +50299,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/069da37a-b3e1-45bb-882f-da69feba4c27")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP14" (at 0 2.54 90 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 90b312da-e7f3-4d9a-8f3b-bebce6e6dd20)
@@ -50322,7 +50322,7 @@
     (property "Sheetfile" "ZigerWordClock.kicad_sch")
     (property "Sheetname" "")
     (path "/d8907e41-ca85-4c15-8718-7cb6eb74a479")
-    (attr smd)
+    (attr smd exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP23" (at 0 2.54 90 unlocked) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 5ea3ddad-1a01-46a0-80cc-09236e8bb9ab)
