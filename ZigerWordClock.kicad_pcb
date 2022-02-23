@@ -48539,11 +48539,11 @@
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "kibuzzard-620DF03F" (at 0 1.114007 90) (layer "B.SilkS") hide
       (effects (font (size 0.000254 0.000254) (thickness 0.000003)) (justify mirror))
-      (tstamp 6da3846c-049d-4292-b5a9-b9d5b8a252c4)
+      (tstamp 2ac7653f-9b43-4afe-929a-44fc7e2d6a22)
     )
     (fp_text value "G***" (at 0 -1.114007 90) (layer "B.SilkS") hide
       (effects (font (size 0.000254 0.000254) (thickness 0.000003)) (justify mirror))
-      (tstamp e3159461-f920-4431-84e8-8c1ae1d59882)
+      (tstamp 4780a920-b601-4f7f-a8a3-6f88eae2541d)
     )
     (fp_poly (pts
         (xy -1.965325 1.113499)
@@ -48754,7 +48754,7 @@
         (xy 2.477955 1.113499)
         (xy 1.965325 1.113499)
         (xy -1.965325 1.113499)
-      ) (layer "B.SilkS") (width 0) (fill solid) (tstamp f1efa10b-cbc0-48be-aa79-b97d5db86d65))
+      ) (layer "B.SilkS") (width 0) (fill solid) (tstamp 16b8eb60-80f0-442d-8743-a5c8fa03e869))
   )
 
   (footprint "kibuzzard-620DF0B9" (layer "B.Cu")
